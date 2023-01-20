@@ -11,7 +11,7 @@ Contact page https://popovaevgeniya.github.io/cloth_and_fashion/contacts.html
 
 Basket page https://popovaevgeniya.github.io/cloth_and_fashion/basket.html
 
-Pages of people who wear these clothes:
+Pages of people who wear store clothes:
 https://popovaevgeniya.github.io/cloth_and_fashion/ratos.html
 https://popovaevgeniya.github.io/cloth_and_fashion/guetta.html
 https://popovaevgeniya.github.io/cloth_and_fashion/monochrome.html
