@@ -1,5 +1,5 @@
 # cloth_and_fashion
-Clothing store website - project for refresher courses 2019
+Cloth and fashion is clothing store. It's project for refresher courses 2019.
 
 You can view the site at the link https://popovaevgeniya.github.io/cloth_and_fashion/
 
