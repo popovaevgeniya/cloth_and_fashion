@@ -5,7 +5,9 @@ You can view the site at the link https://popovaevgeniya.github.io/cloth_and_fas
 
 I used HTML, CSS, JavaScript, Bootstrap 3.
 
-The site has 8 pages.
+The site has 7 additional pages.
+
+Authorization page https://popovaevgeniya.github.io/cloth_and_fashion/login.html
 
 Contact page https://popovaevgeniya.github.io/cloth_and_fashion/contacts.html
 
